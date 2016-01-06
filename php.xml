@@ -1,4 +1,9 @@
 <application>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration />
+    </phpcs_settings>
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="ssh://vagrant@127.0.0.1:2222/usr/bin/php" id="64896038-d3c5-4236-9e2e-8327fca0c483" name="Vagrant PHP 5.3" debugger_id="php.debugger.XDebug">
