@@ -7,6 +7,7 @@
       <mapping pattern="files" type="PLAIN_TEXT" />
       <mapping pattern="oldversion2" type="PLAIN_TEXT" />
       <mapping pattern="sudoers" type="PLAIN_TEXT" />
+      <mapping pattern="carriers" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
       <mapping pattern="ip-up" type="PLAIN_TEXT" />
