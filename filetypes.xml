@@ -23,6 +23,7 @@
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="deploy" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="integration" type="XML" />
       <mapping ext="phpunit" type="XML" />
       <mapping ext="template" type="AWSCloudFormation" />
       <mapping pattern="magento-mysql" type="AWSCloudFormation" />
