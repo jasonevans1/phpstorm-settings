@@ -3,20 +3,20 @@
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="testorg" type="PLAIN_TEXT" />
+      <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="ip-up" type="PLAIN_TEXT" />
       <mapping pattern="FedEx_Ground_10" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
+      <mapping pattern="Appfile" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="files" type="PLAIN_TEXT" />
       <mapping pattern="sudoers" type="PLAIN_TEXT" />
       <mapping pattern="oldversion2" type="PLAIN_TEXT" />
       <mapping pattern="oldversion1" type="PLAIN_TEXT" />
-      <mapping pattern="Appfile" type="PLAIN_TEXT" />
       <mapping pattern="carriers" type="PLAIN_TEXT" />
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
       <mapping pattern="setupproject" type="PLAIN_TEXT" />
-      <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="new" type="PLAIN_TEXT" />
