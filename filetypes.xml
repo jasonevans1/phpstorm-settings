@@ -14,6 +14,7 @@
       <mapping pattern="sudoers" type="PLAIN_TEXT" />
       <mapping pattern="oldversion2" type="PLAIN_TEXT" />
       <mapping pattern="oldversion1" type="PLAIN_TEXT" />
+      <mapping pattern="setup_phpunit_instance" type="PLAIN_TEXT" />
       <mapping pattern="carriers" type="PLAIN_TEXT" />
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
       <mapping pattern="setupproject" type="PLAIN_TEXT" />
