@@ -29,6 +29,7 @@
       <mapping ext="deploy" type="PLAIN_TEXT" />
       <mapping ext="current" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="server" type="PLAIN_TEXT" />
       <mapping ext="integration" type="XML" />
       <mapping ext="phpunit" type="XML" />
       <mapping ext="template" type="AWSCloudFormation" />
