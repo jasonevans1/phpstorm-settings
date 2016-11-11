@@ -14,6 +14,7 @@
       <mapping pattern="files" type="PLAIN_TEXT" />
       <mapping pattern="authnet_beta" type="PLAIN_TEXT" />
       <mapping pattern="oldversion1" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="testorg" type="PLAIN_TEXT" />
       <mapping pattern="sudoers" type="PLAIN_TEXT" />
       <mapping pattern="setup_phpunit_instance" type="PLAIN_TEXT" />
