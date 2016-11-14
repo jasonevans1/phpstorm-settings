@@ -11,8 +11,8 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="vagrant:///Users/jevans/projects/purina_store/usr/bin/php" id="6c12be74-b178-4015-8602-88c24e0f58ef" name="Vagrant PHP 5.5" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/projects/purina_store" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="vagrant:///Users/jevans/projects/purinajstright/usr/bin/php" id="6c12be74-b178-4015-8602-88c24e0f58ef" name="Vagrant PHP 5.5" debugger_id="php.debugger.XDebug">
+        <remote_data VAGRANT_FOLDER="$USER_HOME$/projects/purinajstright" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="vagrant:///Users/jevans/projects/freshmagento/usr/bin/php" id="3c8a7622-cab7-4f7c-a78b-658cd1f5b020" name="Fresh Magento PHP 5.5" debugger_id="php.debugger.XDebug">
         <remote_data VAGRANT_FOLDER="$USER_HOME$/projects/freshmagento" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
