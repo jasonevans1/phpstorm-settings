@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../htdocs/app/code/community - [purinajstright]'" />
-    <option name="defaultScopeName" value="Directory '.../htdocs/app/code/community - [purinajstright]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../htdocs/app/code/community - [purinajstright]'" />
+    <option name="customScope" value="File '.../app/code/DEG/SalesforceMarketingCloud/Service/Entity/SubscriberList.php - [magento2sfmc]'" />
+    <option name="defaultScopeName" value="File '.../app/code/DEG/SalesforceMarketingCloud/Service/Entity/SubscriberList.php - [magento2sfmc]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/code/DEG/SalesforceMarketingCloud/Service/Entity/SubscriberList.php - [magento2sfmc]'" />
   </component>
 </application>
