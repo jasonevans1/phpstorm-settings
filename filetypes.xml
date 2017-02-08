@@ -28,6 +28,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="rake" type="PLAIN_TEXT" />
       <mapping ext="new" type="PLAIN_TEXT" />
+      <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="deploy" type="PLAIN_TEXT" />
