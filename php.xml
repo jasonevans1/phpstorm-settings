@@ -22,7 +22,7 @@
         <remote_data VAGRANT_FOLDER="$USER_HOME$/projects/purina_store" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="ssh://vagrant@localhost:2200/usr/bin/php" id="b1eda62b-19a4-4a25-82b7-8f904efe47c3" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="localhost" PORT="2200" USERNAME="vagrant" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data HOST="localhost" PORT="2200" USERNAME="vagrant" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
@@ -1587,10 +1587,5 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
-  </component>
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="b1eda62b-19a4-4a25-82b7-8f904efe47c3" load_method="CUSTOM_LOADER" custom_loader_path="/var/www/public/grandstand/vendor/autoload.php" phpunit_phar_path="" />
-    </phpunit_settings>
   </component>
 </application>
