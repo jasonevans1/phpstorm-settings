@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="PHP">
+        <added pattern="\Magento\Framework\DB\Ddl\Table.addColumn(name,type,size,options,comment)" />
+        <removed pattern="" />
+      </blacklist>
+    </blacklists>
+    <option id="php.show.names.for.all.args" value="true" />
+  </component>
+</application>
