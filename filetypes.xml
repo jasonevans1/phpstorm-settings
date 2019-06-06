@@ -2,23 +2,23 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="authnet_beta" type="PLAIN_TEXT" />
       <mapping pattern="setup_phpunit_instance" type="PLAIN_TEXT" />
-      <mapping pattern="testfile" type="PLAIN_TEXT" />
       <mapping pattern="carriers" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="newrelic_beta2" type="PLAIN_TEXT" />
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
       <mapping pattern="magento2docker" type="PLAIN_TEXT" />
       <mapping pattern="checkout" type="PLAIN_TEXT" />
-      <mapping pattern="authnet_beta" type="PLAIN_TEXT" />
+      <mapping pattern="newrelic_beta2" type="PLAIN_TEXT" />
       <mapping pattern="testorg" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping pattern=".env.valet" type="PLAIN_TEXT" />
       <mapping pattern="run-cron" type="PLAIN_TEXT" />
       <mapping pattern="base" type="PLAIN_TEXT" />
       <mapping pattern="Appfile" type="PLAIN_TEXT" />
-      <mapping pattern="setupproject" type="PLAIN_TEXT" />
+      <mapping pattern="testfile" type="PLAIN_TEXT" />
       <mapping pattern="Integration/Plugin/CustomerRepositoryPluginTest" type="PLAIN_TEXT" />
+      <mapping pattern="setupproject" type="PLAIN_TEXT" />
       <mapping pattern="ip-up" type="PLAIN_TEXT" />
       <mapping pattern="BuilderTest" type="PLAIN_TEXT" />
       <mapping pattern="sudoers" type="PLAIN_TEXT" />
@@ -33,6 +33,7 @@
       <mapping pattern="newrelic_live2" type="PLAIN_TEXT" />
       <mapping pattern="magedbm2" type="PLAIN_TEXT" />
       <mapping pattern="FedEx_Ground_10" type="PLAIN_TEXT" />
+      <mapping pattern="pagebuilder-email-error" type="PLAIN_TEXT" />
       <mapping ext="10" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
