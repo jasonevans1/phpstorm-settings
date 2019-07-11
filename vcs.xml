@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="evans022@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://stash.balfourservices.com" />
+          <option name="userName" value="jason.evans" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
