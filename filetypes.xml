@@ -4,13 +4,13 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="authnet_beta" type="PLAIN_TEXT" />
       <mapping pattern="setup_phpunit_instance" type="PLAIN_TEXT" />
       <mapping pattern="carriers" type="PLAIN_TEXT" />
+      <mapping pattern="newrelic_beta2" type="PLAIN_TEXT" />
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
       <mapping pattern="magento2docker" type="PLAIN_TEXT" />
       <mapping pattern="checkout" type="PLAIN_TEXT" />
-      <mapping pattern="newrelic_beta2" type="PLAIN_TEXT" />
+      <mapping pattern="authnet_beta" type="PLAIN_TEXT" />
       <mapping pattern="testorg" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping pattern=".env.valet" type="PLAIN_TEXT" />
@@ -42,13 +42,13 @@
       <mapping ext="server" type="PLAIN_TEXT" />
       <mapping ext="magerun" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="current" type="PLAIN_TEXT" />
       <mapping ext="rake" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="deploy" type="PLAIN_TEXT" />
+      <removed_mapping ext="tsv" type="TSV" />
       <mapping ext="phpunit" type="XML" />
       <mapping ext="integration" type="XML" />
       <mapping ext="template" type="AWSCloudFormation" />
