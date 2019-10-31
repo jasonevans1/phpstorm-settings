@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="PrintColorGroupAssignment" type="PHP" />
       <mapping pattern="authnet_beta" type="PLAIN_TEXT" />
       <mapping pattern="setup_phpunit_instance" type="PLAIN_TEXT" />
       <mapping pattern="carriers" type="PLAIN_TEXT" />
