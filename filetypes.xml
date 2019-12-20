@@ -52,7 +52,6 @@
       <removed_mapping ext="tsv" type="TSV" />
       <mapping ext="phpunit" type="XML" />
       <mapping ext="integration" type="XML" />
-      <removed_mapping ext="tsv" type="TSV" />
       <mapping ext="template" type="AWSCloudFormation" />
       <mapping pattern="magento-mysql" type="AWSCloudFormation" />
     </extensionMap>
