@@ -13,9 +13,6 @@
       <interpreter id="6c12be74-b178-4015-8602-88c24e0f58ef" name="Vagrant PHP 5.5" home="vagrant://DATA" debugger_id="php.debugger.XDebug">
         <remote_data VAGRANT_FOLDER="$USER_HOME$/projects/purinajstright" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
       </interpreter>
-      <interpreter id="3c8a7622-cab7-4f7c-a78b-658cd1f5b020" name="Fresh Magento PHP 5.5" home="docker://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="php:7.1-cli" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="/usr/local/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
-      </interpreter>
       <interpreter id="5f2a6477-7d3b-4fee-b472-ca6c7c270ada" name="PHP 7" home="/usr/local/php5/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="5fd17e84-7a38-4bec-b380-978612ebaa42" name="Remote PHP 5.5" home="vagrant://DATA" debugger_id="php.debugger.XDebug">
         <remote_data VAGRANT_FOLDER="$USER_HOME$/projects/purina_store" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
@@ -25,6 +22,7 @@
       </interpreter>
       <interpreter id="2d745a9e-390f-4e69-b3a6-0e35d14ac82d" name="PHP 7.1" home="/usr/local/opt/valet-php@7.1/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="be9efdd0-75f5-46b2-af98-289e09e36908" name="Valet PHP 7.0" home="/usr/local/opt/valet-php@7.0/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="a22dcac3-b028-4221-8cef-d5035e11866d" name="Valet PHP 7.2" home="/usr/local/opt/valet-php@7.2/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -340,6 +338,93 @@
           </loaded_extensions>
         </phpinfo>
       </interpreter>
+      <interpreter name="Valet PHP 7.2">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/valet-php@7.2/7.2.22_2/bin/php-cgi" php_cli="/usr/local/Cellar/valet-php@7.2/7.2.22_2/bin/php" path_separator=":" version="7.2.22">
+          <additional_php_ini>/usr/local/etc/valet-php/7.2/conf.d/ext-opcache.ini, /usr/local/etc/valet-php/7.2/conf.d/z-performance.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/valet-php/7.2/php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/valet-php@7.2/7.2.22_2/share/valet-php@7.2/pear" />
+          </configuration_options>
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.7.2">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="PDO_ODBC" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="Zend OPcache" />
+            <extension name="apc" />
+            <extension name="apcu" />
+            <extension name="bcmath" />
+            <extension name="bz2" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dba" />
+            <extension name="dom" />
+            <extension name="exif" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="ftp" />
+            <extension name="gd" />
+            <extension name="geoip" />
+            <extension name="gettext" />
+            <extension name="gmp" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="imagick" />
+            <extension name="intl" />
+            <extension name="json" />
+            <extension name="ldap" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="odbc" />
+            <extension name="openssl" />
+            <extension name="pcntl" />
+            <extension name="pcre" />
+            <extension name="pdo_dblib" />
+            <extension name="pdo_mysql" />
+            <extension name="pdo_pgsql" />
+            <extension name="pdo_sqlite" />
+            <extension name="pgsql" />
+            <extension name="phpdbg_webhelper" />
+            <extension name="posix" />
+            <extension name="pspell" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="shmop" />
+            <extension name="soap" />
+            <extension name="sockets" />
+            <extension name="sodium" />
+            <extension name="sqlite3" />
+            <extension name="standard" />
+            <extension name="sysvmsg" />
+            <extension name="sysvsem" />
+            <extension name="sysvshm" />
+            <extension name="tidy" />
+            <extension name="tokenizer" />
+            <extension name="wddx" />
+            <extension name="xdebug" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlrpc" />
+            <extension name="xmlwriter" />
+            <extension name="xsl" />
+            <extension name="yaml" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
       <interpreter name="PHP 7">
         <phpinfo binary_type="PHP" php_cgi="/usr/local/php5-7.0.10-20160831-102733/bin/php-cgi" php_cli="/usr/local/php5-7.0.10-20160831-102733/bin/php" path_separator=":" version="7.0.10">
           <additional_php_ini>/usr/local/php5/php.d/10-extension_dir.ini, /usr/local/php5/php.d/20-extension-opcache.ini, /usr/local/php5/php.d/40-openssl.ini, /usr/local/php5/php.d/50-extension-apcu.ini, /usr/local/php5/php.d/50-extension-curl.ini, /usr/local/php5/php.d/50-extension-gmp.ini, /usr/local/php5/php.d/50-extension-imap.ini, /usr/local/php5/php.d/50-extension-intl.ini, /usr/local/php5/php.d/50-extension-mcrypt.ini, /usr/local/php5/php.d/50-extension-mssql.ini, /usr/local/php5/php.d/50-extension-pdo_pgsql.ini, /usr/local/php5/php.d/50-extension-pgsql.ini, /usr/local/php5/php.d/50-extension-propro.ini, /usr/local/php5/php.d/50-extension-raphf.ini, /usr/local/php5/php.d/50-extension-readline.ini, /usr/local/php5/php.d/50-extension-xdebug.ini, /usr/local/php5/php.d/50-extension-xsl.ini, /usr/local/php5/php.d/60-extension-pecl_http.ini, /usr/local/php5/php.d/99-liip-developer.ini</additional_php_ini>
@@ -422,14 +507,14 @@
         </phpinfo>
       </interpreter>
       <interpreter name="Valet PHP 7.0">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/valet-php@7.0/7.0.33_2/bin/php-cgi" php_cli="/usr/local/Cellar/valet-php@7.0/7.0.33_2/bin/php" path_separator=":" version="7.0.33">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/valet-php@7.0/7.0.33_3/bin/php-cgi" php_cli="/usr/local/Cellar/valet-php@7.0/7.0.33_3/bin/php" path_separator=":" version="7.0.33">
           <additional_php_ini>/usr/local/etc/valet-php/7.0/conf.d/ext-opcache.ini, /usr/local/etc/valet-php/7.0/conf.d/z-performance.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/valet-php/7.0/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/valet-php@7.0/7.0.33_2/share/valet-php@7.0/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/valet-php@7.0/7.0.33_3/share/valet-php@7.0/pear" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.6.0">
+            <debugger_info debugger="xdebug" debugger_version="2.9.0">
               <debug_extensions />
             </debugger_info>
           </debuggers>
