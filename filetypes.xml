@@ -11,7 +11,6 @@
       <mapping pattern="run-cron" type="PLAIN_TEXT" />
       <mapping pattern="authnet_beta" type="PLAIN_TEXT" />
       <mapping pattern="testorg" type="PLAIN_TEXT" />
-      <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping pattern=".env.valet" type="PLAIN_TEXT" />
       <mapping pattern="base" type="PLAIN_TEXT" />
       <mapping pattern="testfile" type="PLAIN_TEXT" />
@@ -23,6 +22,7 @@
       <mapping pattern="BuilderTest" type="PLAIN_TEXT" />
       <mapping pattern="oldversion2" type="PLAIN_TEXT" />
       <mapping pattern="oldversion1" type="PLAIN_TEXT" />
+      <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
