@@ -18,6 +18,7 @@
       <mapping pattern="Integration/Plugin/CustomerRepositoryPluginTest" type="PLAIN_TEXT" />
       <mapping pattern="newrelic_beta2" type="PLAIN_TEXT" />
       <mapping pattern="setupproject" type="PLAIN_TEXT" />
+      <mapping pattern="redis-session-library-upgrade" type="PLAIN_TEXT" />
       <mapping pattern="ip-up" type="PLAIN_TEXT" />
       <mapping pattern="sudoers" type="PLAIN_TEXT" />
       <mapping pattern="BuilderTest" type="PLAIN_TEXT" />
