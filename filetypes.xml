@@ -6,9 +6,9 @@
       <mapping pattern="oldversion2" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="run-cron" type="PLAIN_TEXT" />
-      <mapping pattern="base" type="PLAIN_TEXT" />
-      <mapping pattern="redis-session-library-upgrade" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
+      <mapping pattern="redis-session-library-upgrade" type="PLAIN_TEXT" />
+      <mapping pattern="base" type="PLAIN_TEXT" />
       <mapping pattern="files" type="PLAIN_TEXT" />
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
       <mapping pattern="authnet_live" type="PLAIN_TEXT" />
@@ -35,8 +35,8 @@
       <mapping pattern="my_known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="testfile" type="PLAIN_TEXT" />
-      <mapping pattern="newrelic_beta2" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="newrelic_beta2" type="PLAIN_TEXT" />
       <mapping ext="magerun" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="deploy" type="PLAIN_TEXT" />
