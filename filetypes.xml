@@ -1,6 +1,6 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="PrintColorGroupAssignment" type="PHP" />
       <mapping pattern="oldversion2" type="PLAIN_TEXT" />
@@ -25,7 +25,6 @@
       <mapping pattern="pagebuilder-email-error" type="PLAIN_TEXT" />
       <mapping pattern="Appfile" type="PLAIN_TEXT" />
       <mapping pattern="magedbm2" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="Integration/Plugin/CustomerRepositoryPluginTest" type="PLAIN_TEXT" />
       <mapping pattern="setup_phpunit_instance" type="PLAIN_TEXT" />
       <mapping pattern="BuilderTest" type="PLAIN_TEXT" />
