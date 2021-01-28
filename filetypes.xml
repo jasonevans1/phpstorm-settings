@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="PrintColorGroupAssignment" type="PHP" />
       <mapping pattern="oldversion2" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
@@ -52,6 +53,7 @@
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="integration" type="XML" />
       <mapping ext="phpunit" type="XML" />
+      <removed_mapping ext="graphqls" approved="true" type="PLAIN_TEXT" />
       <mapping ext="template" type="AWSCloudFormation" />
       <mapping pattern="magento-mysql" type="AWSCloudFormation" />
     </extensionMap>
