@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="PrintColorGroupAssignment" type="PHP" />
       <mapping pattern="oldversion2" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
@@ -21,8 +20,8 @@
       <mapping pattern=".env.valet" type="PLAIN_TEXT" />
       <mapping pattern="authnet_beta" type="PLAIN_TEXT" />
       <mapping pattern="sudoers" type="PLAIN_TEXT" />
-      <mapping pattern="setupproject" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
+      <mapping pattern="setupproject" type="PLAIN_TEXT" />
       <mapping pattern="pagebuilder-email-error" type="PLAIN_TEXT" />
       <mapping pattern="Appfile" type="PLAIN_TEXT" />
       <mapping pattern="magedbm2" type="PLAIN_TEXT" />
@@ -35,8 +34,8 @@
       <mapping pattern="my_known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="testfile" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="newrelic_beta2" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="magerun" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="deploy" type="PLAIN_TEXT" />
