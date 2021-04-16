@@ -422,7 +422,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.3.11">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.1.33">
           <additional_php_ini />
           <configuration_file />
           <configuration_options>
@@ -483,6 +483,7 @@
             <extension name="xmlrpc" />
             <extension name="xmlwriter" />
             <extension name="xsl" />
+            <extension name="zip" />
             <extension name="zlib" />
           </loaded_extensions>
         </phpinfo>
