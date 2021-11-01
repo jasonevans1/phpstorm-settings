@@ -34,6 +34,7 @@
       <mapping pattern="checkout" type="PLAIN_TEXT" />
       <mapping pattern=".env.valet" type="PLAIN_TEXT" />
       <mapping pattern="BuilderTest" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="Integration/Plugin/CustomerRepositoryPluginTest" type="PLAIN_TEXT" />
       <mapping pattern="ip-up" type="PLAIN_TEXT" />
       <mapping pattern="base" type="PLAIN_TEXT" />
