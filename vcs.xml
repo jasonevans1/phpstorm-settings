@@ -10,6 +10,10 @@
           <option name="url" value="http://stash.balfourservices.com" />
           <option name="userName" value="jason.evans" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dsu-bitbucket.nestle.biz" />
+          <option name="userName" value="jevans@degdigital.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
