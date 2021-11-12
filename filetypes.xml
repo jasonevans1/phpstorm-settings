@@ -59,7 +59,7 @@
       <removed_mapping ext="graphqls" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="tsv" approved="true" type="TSV" />
-      <removed_mapping pattern=".env" type=".env file" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping ext="template" type="AWSCloudFormation" />
       <mapping pattern="magento-mysql" type="AWSCloudFormation" />
     </extensionMap>
