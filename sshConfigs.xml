@@ -2,6 +2,9 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="localhost" id="38028f08-0ccb-4d89-9e6d-1d1c0f1f742a" port="2200" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="ec2-52-91-100-107.compute-1.amazonaws.com" id="6f2b101e-c2e3-44fe-9924-0674b3f67299" keyPath="$USER_HOME$/.ssh/primaryeast.pem" port="22" customName="ubuntu@ec2-52-91-100-107.compute-1.amazonaws.com" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
+        <option name="customName" value="ubuntu@ec2-52-91-100-107.compute-1.amazonaws.com" />
+      </sshConfig>
     </configs>
   </component>
 </application>
