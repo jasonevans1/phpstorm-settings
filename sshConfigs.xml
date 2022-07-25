@@ -8,6 +8,7 @@
       <sshConfig authType="PASSWORD" host="ec2-54-211-0-226.compute-1.amazonaws.com" id="a7acb0c1-eb9d-49f9-9537-92d25b7e3361" port="22" customName="ubuntu@ec2-54-211-0-226.compute-1.amazonaws.com" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
         <option name="customName" value="ubuntu@ec2-54-211-0-226.compute-1.amazonaws.com" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="tunnel.warden.test" id="b2630d58-e117-43da-8f80-82a963edb0d2" port="2222" nameFormat="DESCRIPTIVE" username="user" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
